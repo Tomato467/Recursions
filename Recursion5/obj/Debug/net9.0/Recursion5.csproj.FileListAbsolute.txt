@@ -1,0 +1,14 @@
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\bin\Debug\net9.0\Recursion5.exe
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\bin\Debug\net9.0\Recursion5.deps.json
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\bin\Debug\net9.0\Recursion5.runtimeconfig.json
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\bin\Debug\net9.0\Recursion5.dll
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\bin\Debug\net9.0\Recursion5.pdb
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.AssemblyInfoInputs.cache
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.AssemblyInfo.cs
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.dll
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\refint\Recursion5.dll
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.pdb
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\Recursion5.genruntimeconfig.cache
+C:\Users\denis\Desktop\Третій курс\Функціональне програмування\Recursion5\obj\Debug\net9.0\ref\Recursion5.dll
